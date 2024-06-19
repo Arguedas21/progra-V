@@ -1,0 +1,34 @@
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.exe
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.deps.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.runtimeconfig.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfo.cs
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.sourcelink.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\refint\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.genruntimeconfig.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\MathConsoleApp\obj\Debug\net8.0\ref\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfo.cs
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.sourcelink.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\refint\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.exe
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.deps.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.runtimeconfig.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\bin\Debug\net8.0\MathLibrary.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathCons.9C3845D6.Up2Date
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.genruntimeconfig.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica 2\MathConsoleApp\obj\Debug\net8.0\ref\MathConsoleApp.dll
