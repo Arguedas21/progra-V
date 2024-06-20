@@ -7,6 +7,11 @@
             return a + b;
         }
 
+          public double Sumar(double a, double b, double c)
+        {
+            return a + b + c;
+        }
+
         public double Restar(double a, double b)
         {
             return a - b;

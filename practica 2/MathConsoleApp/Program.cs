@@ -31,7 +31,9 @@ namespace MathConsoleApp
                         double a = double.Parse(Console.ReadLine());
                         Console.WriteLine("Ingrese el segundo número:");
                         double b = double.Parse(Console.ReadLine());
-                        Console.WriteLine($"Resultado: {mathOps.Sumar(a, b)}");
+                          Console.WriteLine("Ingrese el tercer número:");
+                        double c = double.Parse(Console.ReadLine());
+                        Console.WriteLine($"Resultado: {mathOps.Sumar(a, b, c)}");
                         break;
 
                     case "2":
