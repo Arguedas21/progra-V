@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "MiAppWeb/1.0.0": {
+        "dependencies": {
+          "MathLibrary": "1.0.0"
+        },
         "runtime": {
           "MiAppWeb.dll": {}
+        }
+      },
+      "MathLibrary/1.0.0": {
+        "runtime": {
+          "MathLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MiAppWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

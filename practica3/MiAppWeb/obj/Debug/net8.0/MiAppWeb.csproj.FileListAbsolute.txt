@@ -29,3 +29,7 @@ C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiApp
 C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\obj\Debug\net8.0\MiAppWeb.pdb
 C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\obj\Debug\net8.0\MiAppWeb.genruntimeconfig.cache
 C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\obj\Debug\net8.0\ref\MiAppWeb.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\obj\Debug\net8.0\MiAppWeb.csproj.AssemblyReference.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\bin\Debug\net8.0\MathLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\bin\Debug\net8.0\MathLibrary.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb\obj\Debug\net8.0\MiAppWeb.csproj.Up2Date

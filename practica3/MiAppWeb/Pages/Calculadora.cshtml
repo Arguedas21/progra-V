@@ -1,0 +1,31 @@
+@page
+@model CalculadoraModel 
+
+@{
+    ViewData["Title"] = "Calculadora Page";
+}
+
+ <div class= "text-center">
+    <p>
+        @Model.Message
+    </p>
+    <h1 class=" display-4"> Calculadora
+    <p>Sumaremos 2 números:</p></h1>
+<form method="post">
+            <h2>
+        <label for="fnumber">Primer número:</label><br>
+        <input type="number" id="fnumber" name="fnumber" asp-for="Fnumber"/><br>
+        <label for="snumber">Segundo número:</label><br>
+        <input type="number" id="snumber" name="snumber" asp-for="Snumber"/><br>
+        <label for="snumber">Resultado:</label><br>
+        <input type="number" id="resultado" name="resultado" asp-for="Resultado"/><br><br>
+        <input type="submit" value="+" asp-page-handler="Add">
+        <input type="submit" value="-" asp-page-handler="Subs">
+        <input type="submit" value="/" asp-page-handler="Division">
+        <input type="submit" value="*" asp-page-handler="Multiplication"><br>
+
+
+      </h2> 
+   
+</form>
+</div>

@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\practica3\MiAppWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Dell 2023/Desktop/universidad/8° cuatri/Progra V/repos/practica3/MiAppWeb/Pages/Calculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell 2023/Desktop/universidad/8° cuatri/Progra V/repos/practica3/MiAppWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
