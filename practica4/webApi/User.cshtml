@@ -1,0 +1,30 @@
+@page
+@model HttpClientExtensionMethods.Pages.UserModel
+@{
+    ViewData["Title"] = "User Information";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h2>User Details</h2>
+@if (Model.User != null)
+{
+    <p><strong>Id:</strong> @Model.User.Id</p>
+    <p><strong>Name:</strong> @Model.User.Name</p>
+    <p><strong>Username:</strong> @Model.User.Username</p>
+    <p><strong>Email:</strong> @Model.User.Email</p>
+}
+else
+{
+    <p>Loading user information...</p>
+}
+
+<h2>Post User</h2>
+<form method="post">
+    <button type="submit">Post User</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ResponseMessage))
+{
+    <p>@Model.ResponseMessage</p>
+}

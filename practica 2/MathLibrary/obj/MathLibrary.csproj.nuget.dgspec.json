@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj": {}
+    "c:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj": {
+    "c:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj",
         "projectName": "MathLibrary",
-        "projectPath": "C:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj",
+        "projectPath": "c:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\MathLibrary.csproj",
         "packagesPath": "C:\\Users\\Dell 2023\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\obj\\",
+        "outputPath": "c:\\Users\\Dell 2023\\Desktop\\universidad\\8° cuatri\\Progra V\\repos\\practica 2\\MathLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 2023\\AppData\\Roaming\\NuGet\\NuGet.Config"
