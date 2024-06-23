@@ -1,0 +1,23 @@
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.deps.json
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfo.cs
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\refint\TaskManagementLibrary.dll
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\User\Documents\dotNet\Examen1\TaskManagementLibrary\obj\Debug\net8.0\ref\TaskManagementLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.deps.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfo.cs
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.sourcelink.json
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\refint\TaskManagementLibrary.dll
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.pdb
+C:\Users\Dell 2023\Desktop\universidad\8° cuatri\Progra V\repos\PrograV-Examen1\TaskManagementLibrary\obj\Debug\net8.0\ref\TaskManagementLibrary.dll
